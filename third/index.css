@@ -1,0 +1,48 @@
+header {
+    background: gray;
+    height: 25px;
+    width: 100%;
+    padding: 25px;
+}
+
+.smallbox {
+    background: blue;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+
+.two {
+    background: skyblue;
+    height: 190px;
+    width: 100%;
+    padding: 25px;
+}
+
+.three {
+    background: orange;
+    height: 25px;
+    width: 100%;
+    padding: 25px;
+}
+
+.four {
+    background: gray;
+    height: 25px;
+    width: 100%;
+    padding: 25px;
+}
+
+.five {
+    background: orange;
+    height: 25px;
+    width: 100%;
+    padding: 25px;
+}
+
+.six {
+    background: gray;
+    height: 25px;
+    width: 100%;
+    padding: 25px;
+}
